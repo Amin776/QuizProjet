@@ -1,0 +1,21 @@
+/* mettre le texte en vert */
+
+li.verte{
+    color : green
+}
+
+/* mettre le texte en rouge */
+li.rouge{
+    color : red
+}
+
+/* le message de felicitaion */
+#alert {
+    background-color: rgb(98, 124, 98);
+    color: rgb(2, 61, 2);
+   display: none;
+   border-radius: 10px;
+   width: 150px;
+   font-weight: bold;
+   text-align: center;
+}
